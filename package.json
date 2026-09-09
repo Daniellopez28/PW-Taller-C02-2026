@@ -20,5 +20,8 @@
   "homepage": "https://github.com/Daniellopez28/PW-Taller-C02-2026#readme",
   "dependencies": {
     "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
   }
 }
